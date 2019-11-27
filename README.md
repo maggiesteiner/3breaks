@@ -1,1 +1,3 @@
-# three_breaks
+# 3-Break Simulation Code
+
+Maggie Steiner
